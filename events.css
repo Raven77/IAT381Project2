@@ -1,0 +1,26 @@
+#container {
+	width: 1450px;
+	background-color: #1C6369;
+	border: 1px solid black;
+	margin: 20px auto;
+	height: 1350px;
+	overflow: hidden;
+}
+
+h1{
+	font-family: Verdana, Times, serif;
+	color: #4CFCAA; 
+	text-align: left;
+}
+
+.box{
+	float: left;
+	width: 1250px;
+	height: 1350px;
+	background-color: #FFFFFF;
+	margin: 0 25px;
+}
+
+.row{
+	clear: both;
+}
