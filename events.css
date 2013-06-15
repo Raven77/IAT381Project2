@@ -3,7 +3,7 @@
 	background-color: #1C6369;
 	border: 1px solid black;
 	margin: 20px auto;
-	height: 1350px;
+	height: 1510px;
 	overflow: hidden;
 }
 
@@ -11,14 +11,16 @@ h1{
 	font-family: Verdana, Times, serif;
 	color: #4CFCAA; 
 	text-align: left;
+	font-size: 30px;
+	margin: 50 100px;
 }
 
 .box{
 	float: left;
-	width: 1250px;
-	height: 1350px;
+	width: 1050px;
+	height: 2000px;
 	background-color: #FFFFFF;
-	margin: 0 25px;
+	margin: 0 150px;
 }
 
 .row{

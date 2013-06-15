@@ -1,19 +1,27 @@
 body{
 	background: #1C6369;
 	width: 1450px;
-	height: 1350px;
+	height: 1050px;
 }
 
 p{
-	text-align: left;
+	text-align:justify;
 	font-family: Verdana, Times, serif;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 h1{
 	text-align: left;
 	color: #3EFAAF;
-	font-family: Georgia, Times, serif;
+	font-family: Verdana, Times, serif;
 	font-size: 24px;
+	padding: 20px;
+}
+
+h2{
+	text-align: left;
+	color: black;
+	font-family: Verdana, Times, serif;
+	font-size: 18px;
 	padding: 20px;
 }
